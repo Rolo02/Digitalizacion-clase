@@ -221,3 +221,5 @@ Invertir en estas tecnologías, junto con una estrategia clara y una adecuada ge
 - Schwab, K. (2016). *The Fourth Industrial Revolution*. World Economic Forum.  
 - McKinsey & Company. (2023). *The State of AI and Digital Transformation*.  
 - PwC. (2024). *Global Digital Transformation Survey*.
+
+HOLA, ESTOY AÑADIENDO ESTA FRASE EN EL README.MD
